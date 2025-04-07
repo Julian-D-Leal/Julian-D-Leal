@@ -5,11 +5,11 @@
 </picture>
 
 ### Hi there 👋
-My name is Julián Leal and i'm a software developer.
+My name is Julián Leal. I'm a software developer and data engineer.
 
-- 🔭 I’m currently studying in Universidad del valle
-- 🌱 I’m currently learning Django, Docker, Kubernetes, Linux, NodeJs, ReactJs
-- 👯 I’m looking to collaborate on software projects
+- 🔭 I’m a systems Engineer graduated.
+- 🌱 I’m currently developing projects with Django, FastAPI, Docker, Kubernetes, Linux, NodeJs, ReactJs, NestJS, MongoDB, PostgreSQL, SAS, GCP, PL/SQL.
+- 👯 I’m looking for an opportunity to demostrate all my skills and habilities.
 
 <!--
 **Julian-D-Leal/Julian-D-Leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
