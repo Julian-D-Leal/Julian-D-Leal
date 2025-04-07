@@ -7,7 +7,7 @@
 ### Hi there 👋
 My name is Julián Leal. I'm a software developer and data engineer.
 
-- 🔭 I’m a systems Engineer graduated.
+- 🔭 I’m a Systems Engineer graduated.
 - 🌱 I’m currently developing projects with Django, FastAPI, Docker, Kubernetes, Linux, NodeJs, ReactJs, NestJS, MongoDB, PostgreSQL, SAS, GCP, PL/SQL.
 - 👯 I’m looking for an opportunity to demostrate all my skills and habilities.
 
@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
